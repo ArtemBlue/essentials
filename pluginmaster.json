@@ -163,19 +163,5 @@
       "RepoUrl": "https://github.com/NightmareXIV/HuntTrainAssistant",
       "DalamudApiLevel": 8,
       "LoadPriority": 0
-    },
-    {
-      "Author": "Hayuki",
-      "Name": "Relic Tracker Plugin",
-      "Punchline": "A simple tool for tracking your progress on obtaining all relic weapons.",
-      "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
-      "InternalName": "relicTrackerPlugin",
-      "ApplicableVersion": "any",
-      "Tags": [
-        "plugin",
-        "relic",
-        "tracker",
-        "tracking"
-      ]
     }
 ]
